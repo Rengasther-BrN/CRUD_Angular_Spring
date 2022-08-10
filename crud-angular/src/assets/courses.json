@@ -1,6 +1,3 @@
 [
-    {"_id":"1", "name":"Angular", "category":"front-end"},
-    {"_id":"2", "name":"React", "category":"front-end"},
-    {"_id":"3", "name":"Vue", "category":"front-end"},
-    {"_id":"3", "name":"Spring", "category":"back-end"}
+  { "_id": "1", "name": "Angular", "category": "front-end"}
 ]
